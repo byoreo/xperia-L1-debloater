@@ -1,6 +1,4 @@
-<div class="outside">
-  <div class="inside">
-      <p>Xperia L1 Debloat</p>
-  </div>
-</div>
+<p align="center">
+Xperia L1 Debloat
+</p>
  
