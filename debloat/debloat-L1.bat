@@ -1,3 +1,4 @@
+@echo off
 echo [ Xperia-L1 Debloater byoreo ]
 adb devices
 adb shell pm uninstall --user 0 "com.amazon.mShop.android.shopping"
